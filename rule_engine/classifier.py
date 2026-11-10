@@ -5,7 +5,9 @@ KHONG tu dat nguong/quy tac moi chua co trong dac ta.
 """
 from __future__ import annotations
 
-from typing import Optional, TypedDict
+import datetime
+import json
+from typing import Any, Dict, Optional, TypedDict
 
 
 class PatientInput(TypedDict, total=False):
@@ -111,3 +113,23 @@ def classify(patient: PatientInput) -> ClassificationResult:
         "rule_id": matched_rule,
         "ly_do": f"Dat tieu chi phan ve theo kich ban {matched_rule}.",
     }
+
+
+def classify_and_audit(
+    patient: PatientInput,
+    user_uuid: str,
+    log_path: str = "audit.log",
+) -> ClassificationResult:
+    """Goi classify() va ghi log audit 4 truong (Tieu chi A-06)."""
+    result = classify(patient)
+
+    audit_entry: Dict[str, Any] = {
+        "Timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "User_UUID": user_uuid,
+        "Action_Type": "CLASSIFY_ANAPHYLAXIS",
+        "Status": result["muc_do"],
+    }
+    with open(log_path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(audit_entry, ensure_ascii=False) + "\n")
+
+    return result
