@@ -21,7 +21,7 @@
 | 7 | Benchmark p50/p95 (A-10) | Nguyễn Đức Mạnh | 15b2f640bd20c7a713005ee1ac46e55209170be7 | | |
 | 8 | `DECISIONS.md` / ADR | Nguyễn Đức Mạnh | 9004fcdb2dc6d20e20f1a17bd7268e493e01dde0 | | |
 | 9 | `TEST_REPORT.md`, `SECURITY_PRIVACY_CHECKLIST.md` | Nguyễn Đức Mạnh | 15b2f640bd20c7a713005ee1ac46e55209170be7 | 
-| 10 | `AI_USE.md`, `CONTRIBUTIONS.md` | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | 51306e89e712181580961639266746c165419591 |
+| 10 | `AI_USE.md`, `CONTRIBUTIONS.md` | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | 51306e89e712181580961639266746c165419591 dd571e086271b4330284db029398cb23270fc16a |
 | 11 | `progress/PROGRESS.md` (PC-1, PC-2) | Trần Đình Việt Dũng, Nguyễn Đức Mạnh | 
 
 ## 3. Review chéo
