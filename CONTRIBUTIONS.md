@@ -15,8 +15,8 @@
 | 1 | Hỗ trợ chạy thuật toán / case | Nguyễn Đức Mạnh | bc7df5fa2ecbb6f880a703abf5c043ffaf70ae0b | Trần Đình Việt Dũng | |
 | 2 | Kiểm tra và nộp file nộp bài | Trần Đình Việt Dũng | #29 | | Pull request ktpmud-project |
 | 3 | `REQUIREMENTS.md`, `docs/decision-table.md`, `README.md`, `source-ref.json` (Checkpoint 1) | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | 51306e89e712181580961639266746c165419591 | | Đã đánh dấu Xong ở PC-1 |
-| 4 | Hiện thực `classify()` (A-01…A-06) | Nguyễn Đức Mạnh |  | | |
-| 5 | Unit test normal/boundary/invalid/missing (A-07, A-08) | Nguyễn Đức Mạnh |
+| 4 | Hiện thực `classify()` (A-01…A-06) | Nguyễn Đức Mạnh | bc7df5fa2ecbb6f880a703abf5c043ffaf70ae0b | | |
+| 5 | Unit test normal/boundary/invalid/missing (A-07, A-08) | Nguyễn Đức Mạnh | bc7df5fa2ecbb6f880a703abf5c043ffaf70ae0b | | |
 | 6 | Workflow CI (A-09) | Trần Đình Việt Dũng | #29 | | Pull request từ ktpmud-project |
 | 7 | Benchmark p50/p95 (A-10) | Nguyễn Đức Mạnh | 15b2f640bd20c7a713005ee1ac46e55209170be7 | | |
 | 8 | `DECISIONS.md` / ADR | Nguyễn Đức Mạnh | 9004fcdb2dc6d20e20f1a17bd7268e493e01dde0 | | |
