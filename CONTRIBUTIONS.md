@@ -4,10 +4,10 @@
 - Commit freeze:   · Tag: `bkt-2026-n02-rc1`
 
 ## 1. Thành viên và vai trò
-| Alias | Vai trò | Phần chịu trách nhiệm chính |
+| Họ và tên (MSSV) | Vai trò | Phần chịu trách nhiệm chính |
 |---|---|---|
-| Nguyễn Đức Mạnh | Phát triển, chạy thuật toán | `rule_engine/classifier.py`, hỗ trợ chạy case |
-| Trần Đình Việt Dũng | Nộp bài, kiểm tra file nộp | `submissions/may_day_sprint_n02/`, `source-ref.json`, Draft PR |
+| Nguyễn Đức Mạnh (202414237) | Phát triển, chạy thuật toán | `rule_engine/classifier.py`, hỗ trợ chạy case |
+| Trần Đình Việt Dũng (202414071) | Nộp bài, kiểm tra file nộp | `submissions/may_day_sprint_n02/`, `source-ref.json`, Draft PR |
 
 ## 2. Đầu việc – commit – review
 | # | Đầu việc | Người thực hiện | Commit / PR | Người review | Ghi chú |
