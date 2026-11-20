@@ -13,15 +13,15 @@
 | # | Đầu việc | Người thực hiện | Commit / PR | Người review | Ghi chú |
 |---|---|---|---|---|---|
 | 1 | Hỗ trợ chạy thuật toán / case | Nguyễn Đức Mạnh | bc7df5fa2ecbb6f880a703abf5c043ffaf70ae0b | Trần Đình Việt Dũng | |
-| 2 | Kiểm tra và nộp file nộp bài | Trần Đình Việt Dũng | | | |
-| 3 | `REQUIREMENTS.md`, `docs/decision-table.md`, `README.md`, `source-ref.json` (Checkpoint 1) | Nguyễn Đức Mạnh | | | Đã đánh dấu Xong ở PC-1 |
-| 4 | Hiện thực `classify()` (A-01…A-06) | Nguyễn Đức Mạnh | | | |
+| 2 | Kiểm tra và nộp file nộp bài | Trần Đình Việt Dũng | #29 | | Pull request ktpmud-project |
+| 3 | `REQUIREMENTS.md`, `docs/decision-table.md`, `README.md`, `source-ref.json` (Checkpoint 1) | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | 51306e89e712181580961639266746c165419591 | | Đã đánh dấu Xong ở PC-1 |
+| 4 | Hiện thực `classify()` (A-01…A-06) | Nguyễn Đức Mạnh |  | | |
 | 5 | Unit test normal/boundary/invalid/missing (A-07, A-08) | Nguyễn Đức Mạnh |
-| 6 | Workflow CI (A-09) | Trần Đình Việt Dũng | #29 | | repo từ ktpmud-project |
-| 7 | Benchmark p50/p95 (A-10) | Nguyễn Đức Mạnh | da1f27fa7b441d3d46e69ba1cd7da2acc65f2ba1 | | |
-| 8 | `DECISIONS.md` / ADR | Nguyễn Đức Mạnh | 7aeb6e0d025a25e8fac9774051c20ed281fdbefa | | |
-| 9 | `TEST_REPORT.md`, `SECURITY_PRIVACY_CHECKLIST.md` | Nguyễn Đức Mạnh | da1f27fa7b441d3d46e69ba1cd7da2acc65f2ba1 | 
-| 10 | `AI_USE.md`, `CONTRIBUTIONS.md` | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | da1f27fa7b441d3d46e69ba1cd7da2acc65f2ba1 |
+| 6 | Workflow CI (A-09) | Trần Đình Việt Dũng | #29 | | Pull request từ ktpmud-project |
+| 7 | Benchmark p50/p95 (A-10) | Nguyễn Đức Mạnh | 15b2f640bd20c7a713005ee1ac46e55209170be7 | | |
+| 8 | `DECISIONS.md` / ADR | Nguyễn Đức Mạnh | 9004fcdb2dc6d20e20f1a17bd7268e493e01dde0 | | |
+| 9 | `TEST_REPORT.md`, `SECURITY_PRIVACY_CHECKLIST.md` | Nguyễn Đức Mạnh | 15b2f640bd20c7a713005ee1ac46e55209170be7 | 
+| 10 | `AI_USE.md`, `CONTRIBUTIONS.md` | Nguyễn Đức Mạnh, Trần Đình Việt Dũng | 51306e89e712181580961639266746c165419591 |
 | 11 | `progress/PROGRESS.md` (PC-1, PC-2) | Trần Đình Việt Dũng, Nguyễn Đức Mạnh | 
 
 ## 3. Review chéo
