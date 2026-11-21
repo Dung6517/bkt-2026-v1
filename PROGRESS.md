@@ -1,7 +1,7 @@
 # PROGRESS — n02 — Track A
 
 - Starter: ktpmud-bkt-ruleengine-starter · tag bkt-2026-v1 (hoặc v1.1)
-- Fork: ⟨ĐIỀN URL fork công khai⟩
+- Fork: https://github.com/Dung6517/bkt-2026-v1
 
 ## PC-1 — 11/11/2026
 
@@ -67,7 +67,7 @@
 
 | Mã | Trạng thái | Bằng chứng | Ghi chú |
 |---|---|---|---|
-| A-01 | Xong |
+| A-01 | Xong | | 
 | A-02 | Xong |
 | A-03 | Xong |
 | A-04 | Xong |
