@@ -89,7 +89,7 @@
 | TEST_REPORT.md | Có | https://github.com/Dung6517/appliedsoftwareengineering-project-submit/blob/main/submissions/may_day_sprint_nhom02/artifacts/TEST_REPORT.md |
 | SECURITY_PRIVACY_CHECKLIST.md | Có | https://github.com/Dung6517/appliedsoftwareengineering-project-submit/blob/main/submissions/may_day_sprint_nhom02/artifacts/SECURITY_PRIVACY_CHECKLIST.md |
 | AI_USE.md | Có | https://github.com/Dung6517/appliedsoftwareengineering-project-submit/blob/main/submissions/may_day_sprint_nhom02/artifacts/AI_USE.md |
-| CONTRIBUTIONS.md | Có |  |
+| CONTRIBUTIONS.md | Có | https://github.com/Dung6517/bkt-2026-v1/blob/main/CONTRIBUTIONS.md |
 | Slide / demo script ≤ 7 phút | Có | https://github.com/Dung6517/appliedsoftwareengineering-project-submit/blob/main/submissions/may_day_sprint_nhom02/artifacts/TEST_REPORT.md |
 | Draft PR vào `ktpmud-project`, check `validate` xanh | Có | https://github.com/fossbk-spec/ktpmud-project/pull/29 |
 
