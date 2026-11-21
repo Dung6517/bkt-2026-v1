@@ -14,21 +14,21 @@
 | A-03 | Đang |
 | A-04 | Đang |
 | A-05 | Đang |
-| A-06 | Đang |
+| A-06 | Xong | https://github.com/Dung6517/bkt-2026-v1/blob/main/docs/decision-table.md | 
 | A-07 | Đang |
 | A-08 | Đang |
 | A-09 | Xong | https://github.com/fossbk-spec/ktpmud-project/pull/29 |
-| A-10 | Xong |
+| A-10 | Chưa |
 | A-11 | Xong | README.md | |
 
 ### 1.2. Sửa đổi bắt buộc từ Checkpoint 1
 <!-- Các mục ❗ trong nhận xét Checkpoint 1 của nhóm. Nếu không có, ghi "Không có". -->
 | Mục | Trạng thái | Bằng chứng |
 |---|---|---|
-| REQUIREMENTS.md | Xong | |
-| decision-table.md | Xong | |
-| README.MD | Xong | |
-| source-ref.json | Xong | |
+| REQUIREMENTS.md | Xong | eea509c |
+| decision-table.md | Xong | 1c0a5b1 |
+| README.MD | Xong | 6ad5d33 |
+| source-ref.json | Xong | d666286 |
 
 ### 1.3. Timeline dự kiến đến khi hoàn thành
 | Việc | Vai trò phụ trách | Mốc (CP2 15/11 · M3 · Freeze 19/11 · M4 20/11) | Ngày dự kiến |
@@ -67,16 +67,16 @@
 
 | Mã | Trạng thái | Bằng chứng | Ghi chú |
 |---|---|---|---|
-| A-01 | Xong | | 
-| A-02 | Xong |
-| A-03 | Xong |
-| A-04 | Xong |
-| A-05 | Xong |
-| A-06 | Xong |
-| A-07 | Xong |
-| A-08 | Xong |
-| A-09 | Xong |
-| A-10 | Xong |
+| A-01 | Xong | DECISIONS.md | 
+| A-02 | Xong | SECURITY_PRIVACY_CHECKLIST.md |
+| A-03 | Xong | REQUIREMENTS.md |
+| A-04 | Xong | REQUIREMENTS.md |
+| A-05 | Xong | TEST_REPORT.md |
+| A-06 | Xong | REQUIREMENTS.md |
+| A-07 | Xong | REQUIREMENTS.md |
+| A-08 | Xong | TEST_REPORT.md |
+| A-09 | Xong | https://github.com/fossbk-spec/ktpmud-project/pull/29 |
+| A-10 | Xong | TEST_REPORT.md |
 | A-11 | Xong | README.md | |
 
 ### 2.3. Sẵn sàng nộp bài (đề thi Mục 6)
