@@ -27,6 +27,7 @@
 ## 3. Review chéo
 | Thành viên review | Đã review PR/commit của | Bằng chứng (link PR/comment) |
 |---|---|---|
+| Nguyễn Đức Mạnh | Trần Đình Việt Dũng | https://github.com/fossbk-spec/ktpmud-project/pull/29 |
 
 
 
